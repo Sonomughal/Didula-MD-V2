@@ -9,7 +9,9 @@
 </a>
 <hr>
  
+# `Pleass waite a few minutes for use your bot affter connected`
 
+# `bot connected වුනාට පස්සේ ටිකක් වෙලා ඉන්න bot පාවිච්චි කිරීමට`
 
 | Feature | Description |
 | --- | --- |
